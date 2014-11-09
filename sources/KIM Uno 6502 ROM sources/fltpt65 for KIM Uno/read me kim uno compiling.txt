@@ -1,0 +1,5 @@
+1 - cba fltpt65_uno
+2 - hex2bin fltpt65_uno.hex
+3 - use a text editor to strip out the hex lines 
+    at the end of the file that have 0x3xx addresses.
+4 - use a hex editor like HxC and save as C source code to paste in to cpu.c
