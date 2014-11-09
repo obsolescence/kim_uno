@@ -1,7 +1,9 @@
 kim_uno
 =======
 
-KIM Uno is a KIM-1 emulator and 6502 programmable calculator for Arduino
+KIM Uno is a KIM-1 emulator and 6502 programmable calculator for Arduino.
+This code is intended for the KIM Uno PCB, but actually runs on any Arduino even without the PCB.
+
 Please check the website for documentation and news:
 http://obsolescence.wix.com/obsolescence#!kim-uno-summary/c1uuh
 
